@@ -35,6 +35,8 @@ Heb je vragen of wil je bijdragen? Voel je vrij om een issue aan te maken of een
 
 Veel plezier met je eigen slimme huisautomatisering! 🚀
 
+support me:
+https://buymeacoffee.com/rozenlaan
 ---
 
 # Home Automation
@@ -74,3 +76,5 @@ Have questions or want to contribute? Feel free to create an issue or submit a p
 
 Enjoy your own smart home automation! 🚀
 
+support me:
+https://buymeacoffee.com/rozenlaan
