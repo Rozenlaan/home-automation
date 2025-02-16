@@ -282,3 +282,6 @@ Met deze stappen heb je meerdere template-sensoren gemaakt die inzicht geven in 
 
 ---
 🚀 **Veel succes met je Home Assistant-configuratie!**
+
+support me:
+https://buymeacoffee.com/rozenlaan
