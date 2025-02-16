@@ -273,10 +273,6 @@ Ook hebben ik thuis een quooker welke ik 4 keer per dag aan zet, daarvoor bepaal
 ### 5️⃣ **Herstart Home Assistant**
 - Na een succesvolle validatie, herstart Home Assistant om de wijzigingen toe te passen.
 
-### 6️⃣ **Controleer de sensor in Home Assistant**
-- Ga naar *Developer Tools* → *States*.
-- Zoek `sensor.zonneplan_tarief_status`, `sensor.zonneplan_laatste_waarde` en `sensor.zonneplan_gemiddeld_tarief` en controleer of de waarden correct worden bijgewerkt.
-
 ## ✅ Conclusie
 Met deze stappen heb je meerdere template-sensoren gemaakt die inzicht geven in het dynamische uurtarief van Zonneplan. Deze kunnen worden gebruikt voor verdere automatiseringen en optimalisaties binnen Home Assistant.
 
